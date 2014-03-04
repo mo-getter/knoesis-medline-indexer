@@ -4,7 +4,7 @@
 
     <groupId>org.knoesis</groupId>
     <artifactId>medline-indexer</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 
     <name>medline-indexer</name>
